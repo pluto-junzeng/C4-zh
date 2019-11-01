@@ -15,5 +15,7 @@
 | 维基中文       |    50万条                            |  2G    |      |
 
 
+#### Reference
 
+大规模中文自然语言处理语料 Large Scale Chinese Corpus for NLP  https://github.com/brightmart/nlp_chinese_corpus
 
