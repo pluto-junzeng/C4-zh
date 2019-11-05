@@ -21,6 +21,7 @@
 |百度百科|2019年百度百科，500w词条|50G|baike.baidu.com|不提供下载，[下载教程](https://blog.csdn.net/u013741019/article/details/102882731)|
 | 清华新闻       |    86万条                            |  4G    |      |
 | 维基中文       |    50万条                            |  2G    |      |
+| 微信公众号文章| 未知|3G|[来源](https://github.com/nonamestreet/weixin_public_corpus)||
 
 
 #### Reference
