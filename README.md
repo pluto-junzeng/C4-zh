@@ -11,9 +11,9 @@
 
 - 已有数据大小
 
-| 数据来源 | 数据规模                       | 大小 | 数据来源链接 | 下载链接（本项目自行构建或清洗）|
+| 数据来源 | 数据规模                       | 大小 | 数据来源链接 | 下载链接（自行构建或清洗）|
 | -------- | ------------------------------ | ---- | ---- | ---- |
-| 搜狐新闻 | 2008~2019 共计600w条 ，未出重 |   20G    |  [2014-2016](https://github.com/brightmart/nlp_chinese_corpus) [2009-2016](https://www.jianshu.com/p/370d3e67a18f)    |
+| 搜狐新闻 | 2008~2019 共计600w条 ，未出重 |   20G    |  [[2012](https://www.sogou.com/labs/resource/list_news.php) 2014-2016](https://github.com/brightmart/nlp_chinese_corpus) [2009-2016](https://www.jianshu.com/p/370d3e67a18f)    |
 | 百度知道     |      60万条              |  3G |     |
 |  百度搜索       |     60万条                           |   3G   |      |
 | 新浪新闻 | 2008~2019滚动新闻  共计 10w条              |   2G   |      |
